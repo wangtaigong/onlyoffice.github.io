@@ -23,6 +23,7 @@
 
     window.Asc.plugin.init = function()
     {
+        debugger
         var variant = 2;
 
         switch (variant)
